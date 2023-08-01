@@ -1,0 +1,5 @@
+# On pull Request, Check code.
+on:
+  push:
+    branches:
+      - main
