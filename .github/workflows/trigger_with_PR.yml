@@ -1,5 +1,5 @@
 # On pull Request, Check code.
 on:
-  push:
+  pull_request:
     branches:
       - main
